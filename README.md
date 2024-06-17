@@ -13,7 +13,7 @@ This project aims to create a web application that displays data entries with th
   - The application's UI should be aesthetically pleasing.
 
 ## High-level design
-![Design](https://github.com/GuoxiangZ/large-scala-data-service/blob/main/image/8131718594734_.pic.jpg)
+![Design](https://github.com/GuoxiangZ/large-scale-data-service/blob/main/image/8131718594734_.pic.jpg)
 
 - React Table: For creating and managing tables.
 - Ant Design: Another UI library with a rich set of components.
